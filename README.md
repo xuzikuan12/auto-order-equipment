@@ -9,13 +9,13 @@ Auto order equipments for TSD system of IMR
 如果空闲时间为0：00-8：00 或者 23:00-24:00，则程序会提示找不到合适的时间。
 
 ## 实例1：
-`order_client.exe run 28`
+`order_client.exe run 28`  
 run为必须的参数  
 28为1号线切割的id  
 自动预约13天后的设备  
 
 ## 实例2：
-`order_client.exe run 28 2018-7-6`
+`order_client.exe run 28 2018-7-6`  
 run为必须的参数  
 28为1号线切割的id  
 预约2018-7-6当天的设备  
